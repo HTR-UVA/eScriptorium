@@ -33,6 +33,12 @@ Ambos modelos siguen un criterio de **transcripción semipaleográfica** basado 
 
 ---
 
+## ⌨️ Teclados
+
+Esta sección contiene los diversos teclados que, de acuerdo con el sistema de codificación del HSMS se han ido desarrollando
+
+---
+
 ## 🛠️ Utilidades
 En el subdirectorio `/utilidades` se encuentran scripts en **R** y **Python** diseñados para:
 * Manejo y limpieza de datos.
@@ -44,5 +50,21 @@ En el subdirectorio `/utilidades` se encuentran scripts en **R** y **Python** di
 ## ⚠️ Nota
 > [!IMPORTANT]
 > Este repositorio se encuentra actualmente **en desarrollo**. Las herramientas y modelos pueden sufrir actualizaciones frecuentes.
+
+---
+
+---
+
+## ⚖️ Licencia
+
+Este proyecto y los modelos contenidos en él están bajo una licencia **[Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es)**.
+
+### Cómo citar este trabajo
+Si utilizas estos modelos o utilidades en tu investigación, por favor cita este repositorio de la siguiente manera:
+
+> *Modelos y utilidades para eScriptorium en la UVa (2026). Desarrollado por el GIR Filología Digital. Universidad de Valladolid.*
+
+---
+
 
 ---
