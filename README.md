@@ -1,29 +1,48 @@
-# eScriptorium
-Modelos y utilidades desarrallados para eScriptroium en la UVa
+# eScriptorium - UVa
 
-# Manual de eScriptorium
-El manual para la instancia de eScriptorium de la UVa se encuentra en https://aic.uva.es/escriptorium/
+Modelos y utilidades desarrollados para la instancia de **eScriptorium** en la Universidad de Valladolid (UVa).
 
-# Modelos
+## 📖 Manual de Uso
+El manual detallado para nuestra instancia se puede consultar en el siguiente enlace:
+👉 [Manual eScriptorium UVa](https://aic.uva.es/escriptorium/)
 
-Esta carpeta contiene los modelos que se desarrollen. Actualmente hay dos:
+---
 
-INC_HSMS
-MSS_HSMS
+## 🤖 Modelos Disponibles
+Esta sección contiene los modelos de transcripción automática (HTR) desarrollados. Actualmente contamos con:
 
-`INC_HSMS_v1.mlmodel` está diseñado para la transcripción automática de incunables y libros impresos con letra gótica en castellano.
+### 1. INC_HSMS (`INC_HSMS_v1.mlmodel`)
+* **Propósito:** Transcripción de **incunables y libros impresos**.
+* **Tipografía:** Letra gótica en castellano.
 
-`MSS_HSMS_v1.mlmodel` está diseñado para la transcripción automática de manuscritos castellanos en una letra que se puede denominar ampliamente como gótica cursiva.
+### 2. MSS_HSMS (`MSS_HSMS_v1.mlmodel`)
+* **Propósito:** Transcripción de **manuscritos castellanos**.
+* **Tipografía:** Gótica cursiva (denominación amplia).
 
-# Sistema de transcripción
+---
 
-Ambos modelos están diseñados para llevar a cabo transcripciones semipaleográficas de acuerdo con el sistema desarrollado por el Hispanic Seminary of Medieval Studies y que se explicita en este manual[https://www.hispanicseminary.org/manual-en.htm]. Ha de tenerse en cuenta que el sistema hace transcripción línea a línea, desarrolla las abreviaturas, que las marca con los signos ＜ ＞ o ⊂  (esto último es provisional). Las letras voladas, como se transcriben seguida del un acento grave ```: `q<u>i``. La abreviatura `v` se desarrolla sistem´ñaticamente como `v<er>` después cada transcriptor ha de procuparse de regularizar el uso —`v<er>` o `v<ir>`— dependiendo del uso del original.
+## ✍️ Sistema de Transcripción
+Ambos modelos siguen un criterio de **transcripción semipaleográfica** basado en el sistema del *Hispanic Seminary of Medieval Studies* ([Manual de normas HSMS](https://www.hispanicseminary.org/manual-en.htm)).
 
+### Particularidades del sistema:
+* **Línea a línea:** La transcripción respeta la disposición original del texto.
+* **Abreviaturas:** Se desarrollan utilizando los signos `＜ ＞` o `⊂` (este último de carácter provisional).
+    * Ejemplo: La abreviatura `v` se desarrolla sistemáticamente como `v<er>`. El transcriptor deberá regularizar posteriormente a `v<er>` o `v<ir>` según el contexto.
+* **Letras voladas:** Se transcriben seguidas de un acento grave.
+    * Ejemplo: `q<u>i` para representar la abreviatura de *qui*.
 
-# Utilidades
+---
 
-Este subdirectorio recoge todas aquellas utilidades, por lo general scripts en `R` o `Python` que se han desarrollado para el manejo y explotación de las transcripciones y ficheros que eScriptorium genere.
+## 🛠️ Utilidades
+En el subdirectorio `/utilidades` se encuentran scripts en **R** y **Python** diseñados para:
+* Manejo y limpieza de datos.
+* Explotación de ficheros generados por eScriptorium.
+* Conversión de formatos.
 
-# Nota
+---
 
-En desarrollo
+## ⚠️ Nota
+> [!IMPORTANT]
+> Este repositorio se encuentra actualmente **en desarrollo**. Las herramientas y modelos pueden sufrir actualizaciones frecuentes.
+
+---
