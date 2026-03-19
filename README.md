@@ -19,6 +19,11 @@ Esta sección contiene los modelos de transcripción automática (HTR) desarroll
 * **Propósito:** Transcripción de **manuscritos castellanos**.
 * **Tipografía:** Gótica cursiva (denominación amplia).
 
+Han de citarse:
+
+Fradejas Rueda, J. J. & Cardeñoso, V. (2025), INC_HSMS_v1.mlmodel, Universidad de Valladolid
+Fradejas Rueda, J. J. & Cardeñoso, V. (2025), MSS_HSMS_v1.mlmodel, Universidad de Valladolid
+
 ---
 
 ## ✍️ Sistema de Transcripción
@@ -26,8 +31,8 @@ Ambos modelos siguen un criterio de **transcripción semipaleográfica** basado 
 
 ### Particularidades del sistema:
 * **Línea a línea:** La transcripción respeta la disposición original del texto.
-* **Abreviaturas:** Se desarrollan utilizando los signos `＜ ＞` o `⊂` (este último de carácter provisional).
-    * Ejemplo: La abreviatura `v` se desarrolla sistemáticamente como `v<er>`. El transcriptor deberá regularizar posteriormente a `v<er>` o `v<ir>` según el contexto.
+* **Abreviaturas:** Se desarrollan utilizando los signos `＜ ＞` o `⊂ ⊃` (este último par es de carácter provisional).
+    * Ejemplo: La abreviatura `v͑` se desarrolla sistemáticamente como `v<er>`. El transcriptor deberá regularizar posteriormente a `v<er>` o `v<ir>` según el contexto y el uso de su original.
 * **Letras voladas:** Se transcriben seguidas de un acento grave.
     * Ejemplo: `q<u>i` para representar la abreviatura de *qui*.
 
