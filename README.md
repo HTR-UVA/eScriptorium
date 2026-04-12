@@ -40,7 +40,7 @@ Ambos modelos siguen un criterio de **transcripción semipaleográfica** basado 
 
 ## ⌨️ Teclados
 
-Esta sección contiene los diversos teclados que, de acuerdo con el sistema de codificación del HSMS se han ido desarrollando
+Esta sección contiene los diversos teclados que, de acuerdo con el sistema de codificación del HSMS, se han ido desarrollando a lo largo de estos años.
 
 ---
 
