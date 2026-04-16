@@ -1,0 +1,469 @@
+{
+    "version": "5.0",
+    "name": "HSMS-5.0",
+    "author": "Francisco Gago Jover <fgagojov@holycross.edu>",
+    "characters": [
+        {
+            "character": "[fol. ]",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 0
+        },
+        {
+            "character": "{HD.",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 0
+        },
+        {
+            "character": "{CB1.",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 0
+        },
+        {
+            "character": "{CB2.",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 0
+        },
+        {
+            "character": "{CB3. ",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 0
+        },
+        {
+            "character": "{RUB. ",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 0
+        },
+        {
+            "character": "{IN1.} ",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 0
+        },
+        {
+            "character": "{IN2.} ",
+            "keyboard_code": null,
+            "column": 7,
+            "row": 0
+        },
+        {
+            "character": "{IN3.} ",
+            "keyboard_code": null,
+            "column": 8,
+            "row": 0
+        },
+        {
+            "character": "{IN4.} ",
+            "keyboard_code": null,
+            "column": 9,
+            "row": 0
+        },
+        {
+            "character": "{IN5.} ",
+            "keyboard_code": null,
+            "column": 10,
+            "row": 0
+        },
+        {
+            "character": "{IN6.} ",
+            "keyboard_code": null,
+            "column": 11,
+            "row": 0
+        },
+        {
+            "character": "((",
+            "keyboard_code": null,
+            "column": 12,
+            "row": 0
+        },
+       {
+            "character": "))",
+            "keyboard_code": null,
+            "column": 13,
+            "row": 0
+        },
+        {
+            "character": "¶",
+            "keyboard_code": null,
+            "column": 14,
+            "row": 0
+        },
+        {
+            "character": "($",
+            "keyboard_code": null,
+            "column": 15,
+            "row": 0
+        },
+        {
+            "character": "{AD. ",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 1
+        },
+        {
+            "character": "{GL. ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 1
+        },
+        {
+            "character": "{MIN.}",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 1
+        },
+        {
+            "character": "{DIAG.}",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 1
+        },
+        {
+            "character": "{ILL.} ",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 1
+        },
+        {
+            "character": "{SYMB.} ",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 1
+        },
+        {
+            "character": "{RMK.} ",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 1
+        },
+        {
+            "character": "{BLNK.} ",
+            "keyboard_code": null,
+            "column": 7,
+            "row": 1
+        },
+        {
+            "character": "{CW. ",
+            "keyboard_code": null,
+            "column": 8,
+            "row": 1
+        },
+        {
+            "character": "{SG. ",
+            "keyboard_code": null,
+            "column": 9,
+            "row": 1
+        },
+        {
+            "character": "[ ]",
+            "keyboard_code": null,
+            "column": 10,
+            "row": 1
+        },
+        {
+            "character": "( )",
+            "keyboard_code": null,
+            "column": 11,
+            "row": 1
+        },
+        {
+            "character": "＜",
+            "keyboard_code": null,
+            "column": 12,
+            "row": 1
+        },
+       {
+            "character": "＞",
+            "keyboard_code": null,
+            "column": 13,
+            "row": 1
+        },
+        {
+            "character": "＜＞",
+            "keyboard_code": null,
+            "column": 14,
+            "row": 1
+        },
+        {
+            "character": "{LAT. ",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 2
+        },
+        {
+            "character": "{GRK. ",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 2
+        },
+        {
+            "character": "{ARB. ",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 2
+        },
+        {
+            "character": "{HEB. ",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 2
+        },
+        {
+            "character": "(^",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 2
+        },
+        {
+            "character": "(^2#",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 2
+        },
+        {
+            "character": "[^",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 2
+        },
+        {
+            "character": "[^2#",
+            "keyboard_code": null,
+            "column": 7,
+            "row": 2
+        },
+        {
+            "character": "+} ",
+            "keyboard_code": null,
+            "column": 8,
+            "row": 2
+        },
+        {
+            "character": "＜e＞",
+            "keyboard_code": null,
+            "column": 9,
+            "row": 2
+        },
+        {
+            "character": "＜u＞",
+            "keyboard_code": null,
+            "column": 10,
+            "row": 2
+        },
+        {
+            "character": "＜n＞",
+            "keyboard_code": null,
+            "column": 11,
+            "row": 2
+        },
+        {
+            "character": "＜m＞",
+            "keyboard_code": null,
+            "column": 12,
+            "row": 2
+        },
+       {
+            "character": "＜ue＞",
+            "keyboard_code": null,
+            "column": 13,
+            "row": 2
+        },
+        {
+            "character": "＜ui＞",
+            "keyboard_code": null,
+            "column": 14,
+            "row": 2
+        },
+        {
+            "character": "＜uo＞",
+            "keyboard_code": null,
+            "column": 15,
+            "row": 2
+        },
+        {
+            "character": "＜ar＞",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 3
+        },
+        {
+            "character": "＜er＞",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 3
+        },
+        {
+            "character": "＜ir＞",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 3
+        },
+        {
+            "character": "＜or＞",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 3
+        },
+        {
+            "character": "＜ur＞",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 3
+        },
+        {
+            "character": "＜re＞",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 3
+        },
+        {
+            "character": "＜ro＞",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 3
+        },
+        {
+            "character": "＜ien＞",
+            "keyboard_code": null,
+            "column": 7,
+            "row": 3
+        },
+        {
+            "character": "＜ier＞",
+            "keyboard_code": null,
+            "column": 8,
+            "row": 3
+        },
+        {
+            "character": "＜con＞",
+            "keyboard_code": null,
+            "column": 9,
+            "row": 3
+        },
+        {
+            "character": "＜es＞",
+            "keyboard_code": null,
+            "column": 10,
+            "row": 3
+        },
+        {
+            "character": "＜us＞",
+            "keyboard_code": null,
+            "column": 11,
+            "row": 3
+        },
+        {
+            "character": "＜ent＞",
+            "keyboard_code": null,
+            "column": 12,
+            "row": 3
+        },
+        {
+            "character": "＜ist＞",
+            "keyboard_code": null,
+            "column": 13,
+            "row": 3
+        },
+        {
+            "character": "＜uest＞",
+            "keyboard_code": null,
+            "column": 14,
+            "row": 3
+        },
+        {
+            "character": "＜irit＞",
+            "keyboard_code": null,
+            "column": 15,
+            "row": 3
+        },
+        {
+            "character": "＜u＞a`",
+            "keyboard_code": null,
+            "column": 0,
+            "row": 4
+        },
+        {
+            "character": "＜u＞i`",
+            "keyboard_code": null,
+            "column": 1,
+            "row": 4
+        },
+        {
+            "character": "＜u＞o`",
+            "keyboard_code": null,
+            "column": 2,
+            "row": 4
+        },
+        {
+            "character": "＜r＞a`",
+            "keyboard_code": null,
+            "column": 3,
+            "row": 4
+        },
+        {
+            "character": "＜r＞i`",
+            "keyboard_code": null,
+            "column": 4,
+            "row": 4
+        },
+        {
+            "character": "＜r＞o`",
+            "keyboard_code": null,
+            "column": 5,
+            "row": 4
+        },
+        {
+            "character": "a`",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 4
+        },
+        {
+            "character": "e`",
+            "keyboard_code": null,
+            "column": 7,
+            "row": 4
+        },
+        {
+            "character": "i`",
+            "keyboard_code": null,
+            "column": 8,
+            "row": 4
+        },
+        {
+            "character": "o`",
+            "keyboard_code": null,
+            "column": 9,
+            "row": 4
+        },
+        {
+            "character": "u`",
+            "keyboard_code": null,
+            "column": 10,
+            "row": 4
+        },
+        {
+            "character": "r`",
+            "keyboard_code": null,
+            "column": 11,
+            "row": 4
+        },
+        {
+            "character": "s`",
+            "keyboard_code": null,
+            "column": 12,
+            "row": 4
+        },
+        {
+            "character": "t`",
+            "keyboard_code": null,
+            "column": 13,
+            "row": 4
+}
+    ]
+}
