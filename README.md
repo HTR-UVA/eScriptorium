@@ -21,8 +21,8 @@ Esta sección contiene los modelos de transcripción automática (HTR) desarroll
 
 Han de citarse:
 
-Fradejas Rueda, J. J. & Cardeñoso, V. (2025), INC_HSMS_v1.mlmodel, Universidad de Valladolid
-Fradejas Rueda, J. J. & Cardeñoso, V. (2025), MSS_HSMS_v1.mlmodel, Universidad de Valladolid
+Fradejas Rueda, J. M., Cardeñoso, V. , Muñoz, F.J. (2025), INC_HSMS_v1.mlmodel, Universidad de Valladolid
+Fradejas Rueda, J. M., Cardeñoso, V., Muñoz, F.J. (2025), MSS_HSMS_v1.mlmodel, Universidad de Valladolid
 
 ---
 
