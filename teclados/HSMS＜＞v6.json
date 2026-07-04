@@ -1,6 +1,6 @@
 {
-    "version": "5.0",
-    "name": "HSMS-5.0",
+    "version": "6.0",
+    "name": "HSMS-6.0",
     "author": "Francisco Gago Jover <fgagojov@holycross.edu>",
     "characters": [
         {
@@ -464,6 +464,66 @@
             "keyboard_code": null,
             "column": 13,
             "row": 4
+		},
+        {
+            "character": "σ",
+            "keyboard_code": null,
+            "column": 6,
+            "row": 5
+        },
+        {
+            "character": "Σ",
+            "keyboard_code": null,
+            "column": 7,
+            "row": 5
+        },
+        {
+            "character": "ƽ",
+            "keyboard_code": null,
+            "column": 8,
+            "row": 5
+        },
+        {
+            "character": "Ƽ",
+            "keyboard_code": null,
+            "column": 9,
+            "row": 5
+        },
+        {
+            "character": "ϛ",
+            "keyboard_code": null,
+            "column": 10,
+            "row": 5
+        },
+        {
+            "character": "Ϛ",
+            "keyboard_code": null,
+            "column": 11,
+            "row": 5
+        },
+        {
+            "character": "ħ",
+            "keyboard_code": null,
+            "column": 12,
+            "row": 5
+        },
+        {
+            "character": "ẍ",
+            "keyboard_code": null,
+            "column": 13,
+            "row": 5
+        },
+        {
+            "character": "ţ",
+            "keyboard_code": null,
+            "column": 14,
+            "row": 5
+        },
+        {
+            "character": "⅋",
+            "keyboard_code": null,
+            "column": 15,
+            "row": 5
 }
     ]
 }
