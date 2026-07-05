@@ -468,35 +468,23 @@
         {
             "character": "σ",
             "keyboard_code": null,
-            "column": 6,
+            "column": 8,
             "row": 5
         },
         {
             "character": "Σ",
             "keyboard_code": null,
-            "column": 7,
+            "column": 9,
             "row": 5
         },
         {
             "character": "ƽ",
             "keyboard_code": null,
-            "column": 8,
-            "row": 5
-        },
-        {
-            "character": "Ƽ",
-            "keyboard_code": null,
-            "column": 9,
-            "row": 5
-        },
-        {
-            "character": "ϛ",
-            "keyboard_code": null,
             "column": 10,
             "row": 5
         },
         {
-            "character": "Ϛ",
+            "character": "Ƽ",
             "keyboard_code": null,
             "column": 11,
             "row": 5
