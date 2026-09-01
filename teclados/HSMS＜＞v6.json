@@ -190,6 +190,12 @@
             "row": 1
         },
         {
+            "character": "⇒",
+            "keyboard_code": null,
+            "column": 15,
+            "row": 1
+        },
+        {
             "character": "{LAT. ",
             "keyboard_code": null,
             "column": 0,
